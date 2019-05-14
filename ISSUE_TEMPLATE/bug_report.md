@@ -1,6 +1,9 @@
 ---
-name: Bug Report
+name: Bug report
 about: Create a report to help us improve
+title: ""
+labels: bug
+assignees: ""
 ---
 
 **Note: for support questions, please use our [Spectrum Community](https://spectrum.chat/debtcollective). This repository's issues are reserved for feature requests and bug reports.**
@@ -17,4 +20,4 @@ OS: [Windows | Mac OS | Ubuntu | Linux]
 
 ## Other information
 
-ex. screenshots, videos, gifs, stacktrace reports etc. Anything that can make it easier to debug the problem.
+ex. screenshots, videos, gifs, stack trace reports, etc. Anything that can make it easier to debug the problem.
