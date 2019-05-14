@@ -1,6 +1,6 @@
 ---
-title: Feature Request
-description: Suggest and idea for this project
+name: Feature Request
+about: Suggest and idea for this project
 ---
 
 **Note: for support questions, please use our [Spectrum Community](https://spectrum.chat/debtcollective). This repository's issues are reserved for feature requests and bug reports.**

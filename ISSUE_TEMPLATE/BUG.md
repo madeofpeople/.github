@@ -1,6 +1,6 @@
 ---
-title: Bug Report
-description: Create a report to help us improve
+name: Bug Report
+about: Create a report to help us improve
 ---
 
 **Note: for support questions, please use our [Spectrum Community](https://spectrum.chat/debtcollective). This repository's issues are reserved for feature requests and bug reports.**
