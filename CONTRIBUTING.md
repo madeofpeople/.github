@@ -28,4 +28,4 @@ Always write a clear log message for your commits. We prefer semantic commits us
 Start reading our code and you'll get the hang of it. We optimize for readability:
 
 - We indent using two spaces (soft tabs)
-- We use [Prettier](https://github.com/prettier/prettier) and [ESLint](https://github.com/eslint/eslint) for linting. All of our projects will have this installed.
+- We use [Prettier](https://github.com/prettier/prettier) and [ESLint](https://github.com/eslint/eslint) for linting. All of our projects will have this installed, so make sure you have this configured in your IDE.
