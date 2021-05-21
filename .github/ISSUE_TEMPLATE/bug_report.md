@@ -7,4 +7,4 @@ labels: bug
 
 **What's the issue?**
 
-**How do we reproduce it?:**
+**How do we reproduce it?**
